@@ -1,12 +1,3 @@
-//
-//  SwifterString.swift
-//  cnpetrich
-
-
-//Updated for Swift 2.0
-
-
-
 import Foundation
 
 extension String {
